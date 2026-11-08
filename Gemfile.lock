@@ -1,0 +1,16 @@
+GEM
+  specs:
+    dotenv (3.2.0)
+
+PLATFORMS
+  arm64-darwin-27
+  ruby
+
+DEPENDENCIES
+  dotenv
+
+CHECKSUMS
+  dotenv (3.2.0)
+
+BUNDLED WITH
+   2.6.9
